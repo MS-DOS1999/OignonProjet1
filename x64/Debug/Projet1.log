@@ -1,0 +1,14 @@
+﻿  stdafx.c
+  main.c
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(57): warning C4133: 'fonction' : types incompatibles - de 'sfRenderWindow *' à 'const sfWindow *'
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(58): warning C4477: 'printf' : la chaîne de format '%f' nécessite un argument de type 'double', mais l'argument variadique 1 est de type 'int'
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(58): warning C4477: 'printf' : la chaîne de format '%f' nécessite un argument de type 'double', mais l'argument variadique 2 est de type 'int'
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(28): warning C4101: 'positionCharY' : variable locale non référencée
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(24): warning C4101: 'mousePos' : variable locale non référencée
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\main.c(26): warning C4101: 'positionCharX' : variable locale non référencée
+  Utils.c
+c:\users\etudiant3\documents\visual studio 2017\projects\base oignon\projet1\utils.c(234): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  Image.c
+  Génération de code en cours...
+  Projet1.vcxproj -> C:\Users\Etudiant3\Documents\Visual Studio 2017\Projects\Base Oignon\x64\Debug\Projet1.exe
+  Projet1.vcxproj -> C:\Users\Etudiant3\Documents\Visual Studio 2017\Projects\Base Oignon\x64\Debug\Projet1.pdb (Partial PDB)
